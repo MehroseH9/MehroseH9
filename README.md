@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mehrose Hashmi
-- 👀 I’m interested in RPA and AI
+- 👀 I’m interested in Agentic AI and RPA
 - 🌱 I’m currently learning process mining
 - 💞️ I’m looking to collaborate on RPA
 - 📫 Looking forward to connect and explore more
